@@ -3,6 +3,10 @@ header{
 	font-family : Comic Sans MS, cursive, sans-serif;
 	padding-left: 35%;
 }
+img{
+	margin: 5px;
+	font-size: 10px;
+}
 body{
 	background-color: #45aaf2;
 	font-size: 20px;
